@@ -22,8 +22,11 @@ public class SwhitchCaseTUT {
             case 3 : System.out.println("March"); break;
             default : System.out.println("Invalid number");
             // etc.
+                
+                
         }
         
+        System.out.println(month);
         
     }
     
