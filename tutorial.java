@@ -26,7 +26,7 @@ public class SwhitchCaseTUT {
                 
         }
         
-        System.out.println(month);
+        System.out.print(month);
         
     }
     
